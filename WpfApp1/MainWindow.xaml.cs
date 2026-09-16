@@ -52,7 +52,7 @@ namespace WpfApp1
             // 組合顯示訊息
             string message = $"【使用者資訊】\n姓名：{name}\n電話：{phone}";
 
-            // 彈出 MessageBox 顯示資訊
+            // 彈出 MessageBox 顯示資訊 
             MessageBox.Show(message, "使用者資訊確認", MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }

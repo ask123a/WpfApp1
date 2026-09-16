@@ -21,7 +21,7 @@
                     <RotateTransform Angle="0.363"/>
                     <TranslateTransform/>
                 </TransformGroup>
-            </Button.RenderTransform>
+            </Button.RenderTransform> 
         </Button>
         <Label Content="輸入一個數值" HorizontalAlignment="Left" Margin="57,108,0,0" VerticalAlignment="Top" Width="103" Height="36" Foreground="Red"/>
         <TextBox x:Name="numberTextBox"  HorizontalAlignment="Left" Margin="162,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.5,0.5" Height="24">
